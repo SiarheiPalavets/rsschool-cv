@@ -1,3 +1,3 @@
-#Here is the link to my CV
+# Here is the link to my CV
 
-https://siarheipalavets.github.io/rsschool-cv/CVPalavetsRS.md
+https://siarheipalavets.github.io/rsschool-cv/CVPalavetsRS
