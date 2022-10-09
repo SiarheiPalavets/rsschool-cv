@@ -1,9 +1,9 @@
-# Palavets Siarhei
+# **Palavets Siarhei**
 ## Junior front-end developer
 
 ### Contact info
 
-email: palavetssiarhei@gmail.com
+email: palavetssiarhei@gmail.com <br />
 github: https://github.com/SiarheiPalavets
 
 ### Summary
@@ -12,11 +12,11 @@ It is important for me to create something perfect, that is why I want to start 
 
 ### Skills
 
-Javascript, Typescript
-HTML, CSS
-React, Redux
-Bootstrap
-Angular
+Javascript, Typescript <br />
+HTML, CSS <br />
+React, Redux <br />
+Bootstrap <br />
+Angular <br />
 Webpack
 
 ### Code examples
@@ -34,8 +34,8 @@ https://github.com/SiarheiPalavets/ReactTrain
 
 ### Experience
 
-2022, Full course about js and react (by Udemy)
-2022, React.js course (freecodecamp.org)
+2022, Full course about js and react (by Udemy) <br />
+2022, React.js course (freecodecamp.org) <br />
 2022-present, RS school (FE,JS,Angular)
 
 ### Education
