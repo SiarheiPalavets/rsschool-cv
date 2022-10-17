@@ -1,0 +1,38 @@
+.horizontal-centered-block {
+    margin: auto;
+    border: 2px solid black;
+    width: 80%;
+    padding: 0px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+h3 {
+  text-align: center;
+
+}
+
+header {
+    text-align: right;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main {
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer {
+    border: 2px solid black;
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
