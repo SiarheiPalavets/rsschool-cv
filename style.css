@@ -9,7 +9,11 @@
 
 h3 {
   text-align: center;
+}
 
+#schoolLogo {
+    width: 83px; 
+    height: 30px;
 }
 
 header {
